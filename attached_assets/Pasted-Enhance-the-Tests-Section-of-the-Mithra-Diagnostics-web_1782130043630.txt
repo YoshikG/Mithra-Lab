@@ -1,0 +1,165 @@
+Enhance the Tests Section of the Mithra Diagnostics website and add premium diagnostic packages with modern UI cards, icons, prices, expandable parameter lists, and a "Book Test" button linked to WhatsApp.
+
+1. Cancer Screening Packages
+🩺 Female Cancer Screening Basic
+
+Price: ₹1999
+Parameters (6):
+
+Alpha Feto Protein (AFP)
+Beta HCG
+CA-125
+CA 15.3
+CA 19.9
+Carcino Embryonic Antigen (CEA)
+
+Description:
+Early detection package for common cancers in women.
+
+🩺 Male Cancer Screening Advanced
+
+Price: ₹1999
+Parameters (35):
+
+CA 19.9
+Carcino Embryonic Antigen (CEA)
+Prostate Profile
+Free PSA
+Percent Free PSA
+PSA
+Alpha Feto Protein (AFP-C)
+Beta HCG
+CBC (28)
+
+Description:
+Advanced cancer screening package for men with prostate profile.
+
+2. Infertility Profile Basic
+👨‍👩‍👧 Infertility Screening Package
+
+Price: ₹2199
+Parameters (7):
+
+FSH
+LH
+Prolactin (PRL)
+Anti Mullerian Hormone (AMH)
+Total T3
+Total T4
+Ultrasensitive TSH
+
+Description:
+Detect hormonal causes of infertility and reproductive disorders.
+
+3. Women's Hairfall Screening Advanced
+💇 Hairfall Profile – Women
+
+Price: ₹3299
+Parameters (51):
+
+Vitamin Profile:
+
+Vitamin D
+Vitamin B12
+
+Thyroid Profile:
+
+T3
+T4
+UTSH
+
+Iron Deficiency Profile:
+
+Total Iron Binding Capacity
+Serum Iron
+Transferrin Saturation
+UIBC
+Ferritin
+
+CBC (28)
+
+Hormonal Tests:
+
+SHBG
+Anti Nuclear Antibody
+CRP
+Cortisol
+Calcium
+Serum Phosphorus
+Magnesium
+Serum Zinc
+FSH
+LH
+Prolactin
+Testosterone
+VDRL
+
+Description:
+Find the root cause of hair fall caused by stress, nutritional deficiency, hormonal imbalance and infections.
+
+4. Men's Hairfall Screening Advanced
+👨 Hairfall Profile – Men
+
+Price: ₹3299
+Parameters (47):
+
+Vitamin Profile:
+
+Vitamin D
+Vitamin B12
+
+Thyroid Profile:
+
+T3
+T4
+UTSH
+
+Iron Deficiency Profile:
+
+Total Iron Binding Capacity
+Serum Iron
+Transferrin Saturation
+UIBC
+
+Additional Tests:
+
+Ferritin
+CBC (28)
+DHT
+SHBG
+Anti Nuclear Antibody
+CRP
+Calcium
+Serum Phosphorus
+Magnesium
+Serum Zinc
+
+Description:
+Advanced screening for hair loss due to stress, hormonal imbalance, infections, and nutritional deficiencies.
+
+UI Requirements
+
+Create beautiful responsive cards with:
+
+Glassmorphism style.
+Orange and blue color theme matching Mithra Diagnostics.
+Test icon for each package.
+Price badge.
+"View Parameters" accordion.
+"Book Test on WhatsApp" button.
+Search bar to search tests.
+Filter categories:
+Cancer Screening
+Hairfall Profile
+Fertility Profile
+Health Packages
+Smooth hover animation.
+Mobile responsive design.
+Display "Home Sample Collection Available".
+Add badges:
+NABL Certified
+Fast Reports
+Trusted Diagnostics
+Home Collection
+
+Use modern card layouts similar to Apollo, Thyrocare and Redcliffe websites. Make the section professional and premium with smooth animations and loading effects.

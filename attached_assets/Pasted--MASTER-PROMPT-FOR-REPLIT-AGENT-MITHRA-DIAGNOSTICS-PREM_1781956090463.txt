@@ -1,0 +1,617 @@
+# MASTER PROMPT FOR REPLIT AGENT – MITHRA DIAGNOSTICS PREMIUM WEBSITE
+
+Transform the existing website into a world-class, premium 3D animated medical diagnostic website similar in quality to Apollo Diagnostics and Dr Lal PathLabs.
+
+Maintain the current orange-yellow theme, but improve spacing, interactivity, and premium appearance.
+
+---
+
+# 1. FIX SPACING AND LAYOUT
+
+Remove excessive white spaces between sections.
+
+Reduce unnecessary top and bottom padding.
+
+Maintain proper content density.
+
+Ensure every section naturally flows into the next.
+
+Optimize spacing for:
+
+* Desktop
+* Tablet
+* Mobile
+
+Add smooth scroll transitions between sections.
+
+---
+
+# 2. PREMIUM STICKY GLASS NAVBAR
+
+Create a floating glassmorphism navbar with blur effect.
+
+Include:
+
+Home
+
+About
+
+Services
+
+Packages
+
+Gallery
+
+Reviews
+
+FAQ
+
+Contact
+
+Buttons:
+
+Book Test
+
+Call Now
+
+When scrolling:
+
+Navbar should shrink slightly and stay fixed.
+
+Add smooth animations.
+
+---
+
+# 3. BETTER BACKGROUNDS
+
+Use high-quality background images with low opacity:
+
+Hero:
+
+Doctors + modern laboratory equipment + microscopes + test tubes.
+
+About Section:
+
+Doctors interacting with patients.
+
+Services Section:
+
+Diagnostic machines and blood testing.
+
+Reviews Section:
+
+Smiling patients.
+
+Contact Section:
+
+Doctors assisting patients.
+
+Opacity:
+
+15%-25%
+
+Apply blur and orange gradient overlay.
+
+---
+
+# 4. APPOINTMENT BOOKING SECTION
+
+Create a premium appointment card.
+
+Fields:
+
+Patient Name
+
+Mobile Number
+
+Date
+
+Time Slot
+
+Required Test
+
+Additional Notes
+
+Buttons:
+
+Book Appointment
+
+WhatsApp Booking
+
+Show success popup after submission.
+
+Store data using localStorage or Supabase.
+
+---
+
+# 5. HOME SAMPLE COLLECTION
+
+Create a dedicated section.
+
+Title:
+
+Book Home Sample Collection
+
+Features:
+
+✓ Blood Collection At Home
+
+✓ Elderly Care
+
+✓ Fast Response
+
+✓ Safe & Hygienic
+
+Form:
+
+Name
+
+Phone
+
+Address
+
+Preferred Date
+
+Preferred Time
+
+Button:
+
+Schedule Home Collection
+
+---
+
+# 6. HEALTH PACKAGES SECTION
+
+Premium cards with hover animation.
+
+Include:
+
+❤️ Heart Health Package
+
+🩸 Diabetes Package
+
+🧠 Thyroid Package
+
+👨 Senior Citizen Package
+
+👩 Women's Wellness Package
+
+🧒 Children's Health Package
+
+💪 Full Body Checkup
+
+Display:
+
+Starting Price
+
+Tests Included
+
+Book Package Button
+
+---
+
+# 7. MEET OUR EXPERTS
+
+Animated cards.
+
+Pathologist
+
+Senior Lab Technician
+
+Sample Collection Specialist
+
+Medical Consultant
+
+Display:
+
+Photo
+
+Experience
+
+Qualification
+
+Description
+
+3D hover effect.
+
+---
+
+# 8. ANIMATED COUNTERS
+
+Count-up animations:
+
+10000+
+
+Reports Generated
+
+5000+
+
+Happy Patients
+
+15+
+
+Years Experience
+
+24×7
+
+Emergency Support
+
+4.3★
+
+Google Rating
+
+---
+
+# 9. ONLINE REPORT DOWNLOAD PORTAL
+
+Premium card.
+
+Fields:
+
+Patient ID
+
+Mobile Number
+
+Date Of Test
+
+Buttons:
+
+Search Reports
+
+Download PDF
+
+Track Report Status
+
+---
+
+# 10. TEST STATUS TRACKER
+
+Animated progress steps:
+
+Sample Collected
+
+↓
+
+Under Processing
+
+↓
+
+Report Preparation
+
+↓
+
+Ready For Download
+
+Use glowing timeline design.
+
+---
+
+# 11. FAQ SECTION
+
+Accordion animation.
+
+Questions:
+
+Do I need fasting before blood tests?
+
+How long does report generation take?
+
+Are you open 24 hours?
+
+Do you provide home sample collection?
+
+Can reports be downloaded online?
+
+What payment methods are accepted?
+
+Can I book appointments online?
+
+Smooth expand and collapse.
+
+---
+
+# 12. GOOGLE REVIEWS CAROUSEL
+
+Auto-sliding cards.
+
+Show:
+
+★★★★★
+
+Superb quality report.
+
+— Koteswara Rao Katta
+
+★★★★★
+
+Good service and supportive staff.
+
+— Ramyakrishna Malisetty
+
+★★★★☆
+
+Good but premises are small.
+
+— Venkatesh Vemula
+
+Add:
+
+4.3 ★ Google Rating
+
+---
+
+# 13. HEALTH BLOG SECTION
+
+Cards:
+
+Diabetes Care Tips
+
+Heart Health Guide
+
+Importance Of Regular Blood Tests
+
+Healthy Lifestyle Tips
+
+Read More Button
+
+---
+
+# 14. CERTIFICATIONS SECTION
+
+Display badges:
+
+NABL Standards
+
+Quality Assured
+
+Advanced Equipment
+
+24×7 Service
+
+Certified Laboratory
+
+Hover animations.
+
+---
+
+# 15. EMERGENCY CONTACT BAR
+
+Sticky bottom floating bar.
+
+Buttons:
+
+📞 Call
+
+💬 WhatsApp
+
+📍 Directions
+
+🧪 Book Test
+
+Must remain visible everywhere.
+
+---
+
+# 16. AI HEALTH ASSISTANT
+
+Bottom-right floating chatbot.
+
+Greeting:
+
+Hello! Welcome to Mithra Diagnostics.
+
+How may I help you today?
+
+Provide:
+
+Test Information
+
+Fasting Instructions
+
+Report Queries
+
+Home Collection
+
+Support English and Telugu.
+
+Animated popup.
+
+---
+
+# 17. BEFORE TEST INSTRUCTIONS
+
+Carousel cards.
+
+Blood Test:
+
+Fast for 8 hours.
+
+Diabetes Test:
+
+Morning sample preferred.
+
+Thyroid Test:
+
+Avoid medications before test.
+
+Lipid Profile:
+
+12-hour fasting recommended.
+
+---
+
+# 18. WHY CHOOSE US
+
+Glass cards with icons.
+
+✓ Accurate Reports
+
+✓ Affordable Prices
+
+✓ Qualified Professionals
+
+✓ Latest Equipment
+
+✓ Same-Day Reports
+
+✓ 24×7 Service
+
+3D hover effects.
+
+---
+
+# 19. PREMIUM GALLERY
+
+Masonry layout.
+
+Images:
+
+Lab Interior
+
+Blood Collection
+
+Doctors
+
+Diagnostic Machines
+
+Reception Area
+
+Patients
+
+Lightbox zoom.
+
+Parallax effects.
+
+---
+
+# 20. MULTI-LANGUAGE SUPPORT
+
+English
+
+తెలుగు
+
+Language switcher in navbar.
+
+Smooth transitions.
+
+---
+
+# 21. LEAD COLLECTION POPUP
+
+Appear after 8 seconds.
+
+Title:
+
+Get Health Updates
+
+Fields:
+
+Name
+
+Phone Number
+
+Button:
+
+Join Now
+
+Store data in Supabase.
+
+---
+
+# 22. FEEDBACK FORM
+
+Fields:
+
+Name
+
+Mobile
+
+Test Taken
+
+Comments
+
+Rating
+
+Button:
+
+Submit Feedback
+
+Success animation.
+
+---
+
+# 23. FOOTER IMPROVEMENTS
+
+Include:
+
+Quick Links
+
+Services
+
+Contact
+
+Working Hours
+
+Google Maps
+
+Social Media Icons
+
+Copyright
+
+---
+
+# 24. ADD PREMIUM 3D EFFECTS
+
+Use:
+
+Framer Motion
+
+GSAP ScrollTrigger
+
+Three.js
+
+Floating DNA Helix
+
+Blood Cells
+
+Medical Cross Symbols
+
+Particles
+
+Animated Molecules
+
+Parallax Backgrounds
+
+Glassmorphism Cards
+
+Smooth Scroll Animations
+
+Count-Up Effects
+
+Fade-In Sections
+
+Hover Tilt Effects
+
+---
+
+# 25. PERFORMANCE OPTIMIZATION
+
+Lazy Load Images
+
+SEO Friendly
+
+Responsive Design
+
+Fast Loading
+
+Accessibility Support
+
+Mobile First
+
+Compress Images
+
+Smooth Navigation
+
+Production Ready
+
+Generate clean, scalable React + Tailwind CSS code suitable for direct deployment on Replit Agent. Create a premium experience that looks modern, luxurious, trustworthy, and comparable to Apollo Diagnostics and Dr Lal PathLabs.

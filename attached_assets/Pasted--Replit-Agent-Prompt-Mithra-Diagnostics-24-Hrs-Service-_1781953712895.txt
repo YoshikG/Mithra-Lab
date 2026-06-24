@@ -1,0 +1,356 @@
+# Replit Agent Prompt – Mithra Diagnostics 24 Hrs Service Website
+
+Create a premium, fully responsive **3D animated scrolling website** for a medical diagnostic center named **Mithra Diagnostics 24 Hrs Service**.
+
+### Business Information
+
+* **English Name:** Mithra Diagnostics 24 Hrs Service
+* **Telugu Name:** మిత్ర డయోగాస్తిక్స్ 24 హ్ర్స్ సర్వీస్
+* **Category:** Diagnostic Center
+* **Rating:** ⭐ 4.3/5 (6 Reviews)
+* **Address:** Government Hospital Rd, Perala, Chirala, Andhra Pradesh 523155
+* **Google Plus Code:** R9G5+9P Chirala, Andhra Pradesh
+* **Phone:** +91 91775 11176
+* **Availability:** Open 24 Hours
+
+---
+
+# Design Style
+
+Create a modern premium medical website with:
+
+* Warm orange and yellow gradient palette mixed with white and soft cream colors.
+* Glassmorphism cards.
+* Smooth 3D scrolling effects using GSAP and Framer Motion.
+* Floating medical icons and animated blobs.
+* Soft shadows and rounded corners.
+* Premium, welcoming and trustworthy appearance.
+* Fast loading and mobile-first responsive design.
+
+---
+
+# Hero Section
+
+Full-screen hero section with parallax background.
+
+### Headline:
+
+# Trusted Diagnostic Care Available 24×7
+
+### Subtitle:
+
+Accurate Reports • Advanced Testing • Reliable Healthcare Services
+
+### Buttons:
+
+* 📞 Call Now
+* 📍 Get Directions
+* WhatsApp Consultation
+
+Background should include:
+
+* Medical laboratory imagery.
+* Floating blood test tubes.
+* DNA helix particles.
+* Soft animated orange-yellow gradients.
+
+Display:
+
+Mithra Diagnostics 24 Hrs Service
+
+మిత్ర డయోగాస్తిక్స్ 24 హ్ర్స్ సర్వీస్
+
+4.3 ★ Google Rated
+
+Open 24 Hours
+
+---
+
+# About Section
+
+Create animated cards describing:
+
+### Accurate Diagnostics
+
+Advanced testing with reliable reports.
+
+### Experienced Professionals
+
+Skilled technicians committed to quality.
+
+### Fast Report Delivery
+
+Quick turnaround for patient convenience.
+
+### 24×7 Availability
+
+Healthcare support whenever needed.
+
+Use hover 3D effects.
+
+---
+
+# Services Section
+
+Display cards with icons and animation:
+
+### Blood Tests
+
+Complete blood analysis and health screening.
+
+### Diabetes Profile
+
+### Thyroid Profile
+
+### Liver Function Test
+
+### Kidney Function Test
+
+### Lipid Profile
+
+### Vitamin D Test
+
+### CBC Test
+
+### Urine Analysis
+
+### ECG Services
+
+### General Health Packages
+
+Cards should animate into view while scrolling.
+
+---
+
+# Why Choose Us Section
+
+3D feature cards with counters:
+
+✓ Accurate Reports
+
+✓ Affordable Prices
+
+✓ Latest Equipment
+
+✓ Qualified Technicians
+
+✓ Same-Day Reports
+
+✓ 24 Hours Service
+
+Include animated statistics:
+
+5000+
+
+Happy Patients
+
+24×7
+
+Emergency Support
+
+4.3★
+
+Customer Rating
+
+---
+
+# Photo Gallery
+
+Create masonry style gallery with zoom-on-hover.
+
+Include placeholders for:
+
+* Laboratory Interior
+* Testing Equipment
+* Reception Area
+* Sample Collection Room
+* Staff at Work
+* Diagnostic Machines
+
+Apply smooth lightbox effect.
+
+---
+
+# Google Maps Section
+
+Embed Google Maps showing:
+
+Government Hospital Rd,
+Perala,
+Chirala,
+Andhra Pradesh 523155
+
+Add buttons:
+
+* Open in Google Maps
+* Get Directions
+
+Use rounded glass card style.
+
+---
+
+# WhatsApp Floating Button
+
+Sticky floating button visible everywhere.
+
+WhatsApp Number:
+
+9177511176
+
+Message Template:
+
+"Hello, I would like to know about diagnostic tests and reports."
+
+Use pulse animation.
+
+---
+
+# Reviews Section
+
+Display animated review cards.
+
+### ⭐⭐⭐⭐⭐
+
+Koteswara Rao Katta
+
+"Superb quality report."
+
+---
+
+### ⭐⭐⭐⭐
+
+Venkatesh Vemula
+
+"Good, but premises are small."
+
+---
+
+### ⭐⭐⭐⭐
+
+Ramyakrishna Malisetty
+
+"Service is good and staff are supportive."
+
+---
+
+Show overall rating:
+
+4.3/5
+
+Google Reviews
+
+---
+
+# Opening Hours Section
+
+Large glass card:
+
+MONDAY - SUNDAY
+
+OPEN 24 HOURS
+
+Emergency Testing Available
+
+Animated glowing clock icon.
+
+---
+
+# Lead Collection Popup
+
+Automatically appear after 8 seconds.
+
+Headline:
+
+Get Health Updates & Special Offers
+
+Fields:
+
+* Name
+* Phone Number
+
+Button:
+
+Join Now
+
+Store data in localStorage or Supabase.
+
+Include close button.
+
+---
+
+# Customer Feedback Form
+
+Fields:
+
+* Name
+* Mobile Number
+* Test Taken
+* Comments
+
+Submit Button:
+
+Send Feedback
+
+Show success animation.
+
+Store responses in localStorage or Supabase.
+
+---
+
+# Contact Section
+
+Address:
+
+Government Hospital Rd,
+Perala,
+Chirala,
+Andhra Pradesh 523155
+
+Phone:
+
++91 91775 11176
+
+Buttons:
+
+* Call Now
+* WhatsApp
+* Get Directions
+
+---
+
+# Footer
+
+Mithra Diagnostics 24 Hrs Service
+
+మిత్ర డయోగాస్తిక్స్ 24 హ్ర్స్ సర్వీస్
+
+Trusted Diagnostic Care Since Always
+
+Open 24 Hours
+
+© 2026 All Rights Reserved
+
+---
+
+# Technical Requirements
+
+Use:
+
+* React + Tailwind CSS
+* Framer Motion
+* GSAP ScrollTrigger
+* Three.js for 3D effects
+* Lucide React Icons
+* Responsive design for desktop, tablet and mobile
+* Lazy loading images
+* Smooth scrolling
+* Sticky navigation bar
+* SEO optimized
+* Accessibility friendly
+* Fast loading performance
+* Glassmorphism UI
+* Animated section transitions
+* Scroll-based parallax effects
+* Floating particles and subtle 3D backgrounds
+
+Generate production-ready clean code and components suitable for direct deployment on Replit Agent.
